@@ -5,8 +5,8 @@
 40923219 nfu<span>40923219</span>
 40923225 nfu40923225@nfu.edu.tw
 40923246 40923246
+<iframe width="560" height="315" src="[嵌入程式碼](https://www.youtube.com/embed/Jz39RTQherg)" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Jz39RTQherg" title="YouTube video player"></iframe>
-
 # Resume Builder using ChatGPT
 ## Motivation
 The most important part of applying for a job and getting an interview is having a very formal and concise resume. 
