@@ -1,3 +1,12 @@
+# About
+<a href="https://github.com/mdecd2023/2b2-pj2bg1">倉儲</a>&nbsp;<a href="https://mdecd2023.github.io/2b2-pj2bg1/content/index.html">網站</a>
+<a href="https://mde.tw/pjcopsim">https://mde.tw/pjcopsim</a>
+40723217 nfu40723217
+40923219 nfu<span>40923219</span>
+40923225 nfu40923225@nfu.edu.tw
+40923246 40923246
+<iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Jz39RTQherg" title="YouTube video player"></iframe>
+
 # Resume Builder using ChatGPT
 ## Motivation
 The most important part of applying for a job and getting an interview is having a very formal and concise resume. 
